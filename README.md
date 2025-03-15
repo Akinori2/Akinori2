@@ -15,10 +15,10 @@
   
 </div>
 
-🎓 **Ciência da Computação** - UNAMA  
+🎓 **Ciência da Computação** - UNAMA 5° Período  
 📍 **Localização:** Brasil  
 📧 **Contato:** negraopimentell@gmail.com  
-📞 **telefone** +55 91 98011-5197
+📞 **telefone:** +55 91 98011-5197  
 🔗 **LinkedIn:** [eduardo-negão](https://www.linkedin.com/in/eduardo-negrão-184936271/)
 
 ---
