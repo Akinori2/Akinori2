@@ -19,7 +19,7 @@
 📍 **Localização:** Brasil  
 📧 **Contato:** negraopimentell@gmail.com  
 📞 **telefone:** +55 91 98011-5197  
-🔗 **LinkedIn:** [eduardo-negão](https://www.linkedin.com/in/eduardo-negrão-184936271/)
+🔗 **LinkedIn:** [eduardo-negrão](https://www.linkedin.com/in/eduardo-negrão-184936271/)  
 
 ---
 
