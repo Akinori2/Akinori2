@@ -25,11 +25,11 @@
 
 ## 🛠️ Tecnologias  
 
-- **Linguagens:** C, C++, C#, Python, Java, JavaScript, TypeScript, SQL  
-- **Frameworks:** React.js, Next.js, Angular, Vue.js, Django, .NET, Oracle APEX, Docker
+- **Linguagens:** C, C#, Python, Java, JavaScript, TypeScript, SQL, HTML, CSS  
+- **Frameworks:** React.js, Angular, Django, .NET, Oracle APEX, Docker
 
 ---
 
 ## 🚀 Sobre Mim  
 
-Sou estudante de **Ciência da Computação** e desenvolvedor com experiência em **Front-End e Back-End**. Busco oportunidades para atuar profissionalmente como **desenvolvedor de software**, criando aplicações eficientes e escaláveis. 
+Sou estudante de **Ciência da Computação** e desenvolvedor com focos em **Front-End e Back-End**. Busco oportunidades para atuar profissionalmente como **desenvolvedor de software**, criando aplicações eficientes e escaláveis. 
