@@ -25,7 +25,7 @@
 
 ## 🛠️ Tecnologias  
 
-- **Linguagens:** C, C#, Python, Java, JavaScript, TypeScript, SQL, HTML, CSS  
+- **Linguagens:** Python, C, C#, Dart, Java, JavaScript, TypeScript, SQL, HTML, CSS  
 - **Frameworks:** React.js, Flutter, Angular, Django, .NET, MongoDB, Docker
 
 ---
