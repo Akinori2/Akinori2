@@ -15,7 +15,7 @@
   
 </div>
 
-🎓 **Ciência da Computação** - UNAMA 5° Período  
+🎓 **Ciência da Computação** - UNAMA 6° Período  
 📍 **Localização:** Brasil  
 📧 **Contato:** negraopimentell@gmail.com  
 📞 **telefone:** +55 91 98011-5197  
