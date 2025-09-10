@@ -31,4 +31,4 @@
 
 ## 🚀 Sobre Mim  
 
-Sou estudante de **Ciência da Computação** com sede de conhecimento e foco em **Desenvolvimento Back-End e de Softwares**. Busco oportunidades para atuar profissionalmente, criando aplicações escaláveis. 
+Sou estudante de **Ciência da Computação** com sede de conhecimento e foco em **Desenvolvimento de Softwares e Programação Back-End**. Busco oportunidades para atuar profissionalmente, criando aplicações escaláveis. 
