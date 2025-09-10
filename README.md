@@ -24,11 +24,11 @@
 
 ## 🛠️ Tecnologias  
 
-- **Linguagens:** Python, C, C#, Dart, Java, JavaScript, TypeScript, SQL, HTML, CSS  
-- **Frameworks:** React.js, Flutter, Angular, Django, .NET, MongoDB, Docker
+- **Linguagens:** Python, CSS, HTML,JavaScript,TypeScript, C, SQL   
+- **Frameworks:** Django, React.js, .NET, MongoDB, Docker
 
 ---
 
 ## 🚀 Sobre Mim  
 
-Sou estudante de **Ciência da Computação** e desenvolvedor com focos em **Front-End e Back-End**. Busco oportunidades para atuar profissionalmente como **desenvolvedor de software**, criando aplicações eficientes e escaláveis. 
+Sou estudante de **Ciência da Computação** com sede de conhecimento e foco em **Desenvolvimento Back-End e de Softwares**. Busco oportunidades para atuar profissionalmente, criando aplicações escaláveis. 
