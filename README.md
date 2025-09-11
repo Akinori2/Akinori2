@@ -1,4 +1,4 @@
-# 💻 Luiz Eduardo Negrão Pimentel 
+#  Luiz Eduardo Negrão Pimentel 
 
 <div>
   <img align="center" alt="Eduardo.python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -22,13 +22,13 @@
 
 ---
 
-## 🛠️ Tecnologias  
+## 🛠 Tecnologias  
 
 - **Linguagens:** Python, CSS, HTML,JavaScript,TypeScript, C, SQL   
 - **Frameworks:** Django, React.js, .NET, MongoDB, Docker
 
 ---
 
-## 🚀 Sobre Mim  
+##  Sobre Mim  
 
 Sou estudante de **Ciência da Computação** com sede de conhecimento e foco em **Desenvolvimento de Softwares e Programação Back-End**. Busco oportunidades para atuar profissionalmente, criando aplicações escaláveis. 
