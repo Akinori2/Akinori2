@@ -31,4 +31,7 @@
 
 ##  Sobre Mim  
 
-Sou estudante de **Ciência da Computação** com sede de conhecimento e foco em **Desenvolvimento de Softwares e Programação Back-End**. Busco oportunidades para atuar profissionalmente, criando aplicações escaláveis. 
+Sou estudante de **Ciência da Computação** com sede de conhecimento e foco em **Desenvolvimento de Softwares e Programação Back-End**. Busco oportunidades para atuar profissionalmente, criando aplicações escaláveis.
+
+caso tenha interesse meu curruculo logo abaixo para contato empresarial 
+[pdf aqui] (https://github.com/LuizEduardoNegrao/Akinori2/raw/main/CurriculoEduardoNegrao.pdf)
